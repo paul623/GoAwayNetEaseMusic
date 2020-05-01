@@ -1,0 +1,8 @@
+E:\C#Project\DamnNetEase\DamnNetEase\bin\Debug\DamnNetEase.exe
+E:\C#Project\DamnNetEase\DamnNetEase\bin\Debug\DamnNetEase.pdb
+E:\C#Project\DamnNetEase\DamnNetEase\obj\Debug\DamnNetEase.Form1.resources
+E:\C#Project\DamnNetEase\DamnNetEase\obj\Debug\DamnNetEase.Properties.Resources.resources
+E:\C#Project\DamnNetEase\DamnNetEase\obj\Debug\DamnNetEase.csproj.GenerateResource.cache
+E:\C#Project\DamnNetEase\DamnNetEase\obj\Debug\DamnNetEase.csproj.CoreCompileInputs.cache
+E:\C#Project\DamnNetEase\DamnNetEase\obj\Debug\DamnNetEase.exe
+E:\C#Project\DamnNetEase\DamnNetEase\obj\Debug\DamnNetEase.pdb

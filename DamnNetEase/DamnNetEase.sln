@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DamnNetEase", "DamnNetEase\DamnNetEase.csproj", "{064ED1CC-FE56-4B52-B7FB-B4AD77C0CD8D}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "GoAwayNetMusic", "GoAwayNetMusic\GoAwayNetMusic.vdproj", "{5DFEFD1E-9C39-47BC-8D3A-614A84C184CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{064ED1CC-FE56-4B52-B7FB-B4AD77C0CD8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{064ED1CC-FE56-4B52-B7FB-B4AD77C0CD8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{064ED1CC-FE56-4B52-B7FB-B4AD77C0CD8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{064ED1CC-FE56-4B52-B7FB-B4AD77C0CD8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DFEFD1E-9C39-47BC-8D3A-614A84C184CB}.Debug|Any CPU.ActiveCfg = Debug
+		{5DFEFD1E-9C39-47BC-8D3A-614A84C184CB}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0C1784C-8D05-4A87-8D77-C540868452E9}
+	EndGlobalSection
+EndGlobal
